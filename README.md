@@ -106,7 +106,8 @@ The following improvements were made to `urlshort.py`.
 +        # Return the entry for this code if it exists.
 +        get_code_url = get_code.get('url')
 +        return redirect(get_code_url) if get_code_url else \
-+            redirect(url_for('static', filename=f'uploaded_files/{get_code.get("file")}'))                                         +                                                                                                                                                   
++            redirect(url_for('static', filename=f'uploaded_files/{get_code.get("file")}'))
++
 +
  @bp.errorhandler(404)
  def page_not_found(error):
