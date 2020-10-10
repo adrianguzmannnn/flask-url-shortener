@@ -117,4 +117,4 @@ The following improvements were made to `urlshort.py`.
 ```
 
 This is a basic Flask application showing the ability to redirect urls and capture form inputs.
-![example](example.png)
+![example](https://github.com/adrianguzmannnn/url-shortener/blob/master/example.PNG)
