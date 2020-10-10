@@ -1,6 +1,7 @@
 # url-shortener
 A forked repository with minor improvements.
 
+## Improvements
 The following improvements were made to `urlshort.py`.
 ```diff
 @@ -1,58 +1,86 @@
@@ -116,5 +117,6 @@ The following improvements were made to `urlshort.py`.
 +
 ```
 
+## About
 This is a basic Flask application showing the ability to redirect urls and capture form inputs.
 ![example](https://github.com/adrianguzmannnn/url-shortener/blob/master/example.PNG)
