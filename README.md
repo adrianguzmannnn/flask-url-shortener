@@ -115,3 +115,6 @@ The following improvements were made to `urlshort.py`.
 +    return render_template('error.html'), 404
 +
 ```
+
+This is a basic Flask application showing the ability to redirect urls and capture form inputs.
+![example](example.png)
