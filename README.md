@@ -120,3 +120,16 @@ The following improvements were made to `urlshort.py`.
 ## About
 This is a basic Flask application showing the ability to redirect urls and capture form inputs.
 ![example](https://github.com/adrianguzmannnn/url-shortener/blob/master/example.PNG)
+
+## Unit Tests
+```shell
+================================================= test session starts =================================================
+platform win32 -- Python 3.7.3, pytest-5.0.1, py-1.8.0, pluggy-0.12.0
+rootdir: \flask\url-shortener
+plugins: arraydiff-0.3, doctestplus-0.3.0, openfiles-0.3.2, remotedata-0.3.1
+collected 1 item
+
+test_main.py .                                                                                                   [100%]
+
+============================================== 1 passed in 0.06 seconds ===============================================
+```
