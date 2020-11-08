@@ -1,5 +1,5 @@
 # url-shortener
-A forked repository with minor improvements.
+An unofficial forked repository with minor improvements.
 
 ## Improvements
 The following improvements were made to `urlshort.py`.
@@ -122,7 +122,7 @@ This is a basic Flask application showing the ability to redirect urls and captu
 ![example](https://github.com/adrianguzmannnn/url-shortener/blob/master/example.PNG)
 
 ## Unit Tests
-```shell
+```shell_session
 ================================================= test session starts =================================================
 platform win32 -- Python 3.7.3, pytest-5.0.1, py-1.8.0, pluggy-0.12.0
 rootdir: \flask\url-shortener
